@@ -1,0 +1,8 @@
+D:\code\web\EntityFrameworkCoreSQL\bin\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.deps.json
+D:\code\web\EntityFrameworkCoreSQL\bin\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.runtimeconfig.json
+D:\code\web\EntityFrameworkCoreSQL\bin\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.runtimeconfig.dev.json
+D:\code\web\EntityFrameworkCoreSQL\bin\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.dll
+D:\code\web\EntityFrameworkCoreSQL\bin\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.pdb
+D:\code\web\EntityFrameworkCoreSQL\obj\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.AssemblyInfo.cs
+D:\code\web\EntityFrameworkCoreSQL\obj\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.dll
+D:\code\web\EntityFrameworkCoreSQL\obj\Debug\netcoreapp1.0\EntityFrameworkCoreSQL.pdb
